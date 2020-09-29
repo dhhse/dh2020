@@ -237,4 +237,4 @@ SketchEngine — это одновременно веб-интерфейс к к
 * Визуализируем распределение слов по тексту
 * ... and more.
 
-## [За мной, читатель!](https://colab.research.google.com/drive/11fLA0gopcwT785gIxoOc-wgZ3dyIyyt2?usp=sharing)
+<!-- ## [За мной, читатель!](https://colab.research.google.com/drive/11fLA0gopcwT785gIxoOc-wgZ3dyIyyt2?usp=sharing) -->
