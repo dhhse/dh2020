@@ -2,9 +2,15 @@
 
 (на всякий случай: инструкция по установке stylo [тут](https://docs.google.com/document/d/1WyUeY6Qi7rlNRg73Bmo0FSPH3dwGjSxzS1SAi0D3uqw/edit?usp=sharing), по началу работы со stylo — [тут](https://docs.google.com/document/d/19vcol7KV80U4LnzpUVgi8DiTOmEUg6BOqp-vSddCUOo/edit?usp=sharing))
 
-[Новый оф.сайт Stylo](https://computationalstylistics.github.io/)
+[Презентация Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/)
 
-[STYLO_HOWTO](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjb21wdXRhdGlvbmFsc3R5bGlzdGljc3xneDpmM2U3OGUzZTM2YjkyYzM)
+[Документ STYLO_HOWTO (очень полезный)](https://drive.google.com/file/d/1duyYsHYKnkmKQe28xv4t8wB202vtZCEI/view?usp=sharing)
+
+[Оф.сайт разработчиков Stylo](https://computationalstylistics.github.io/)
+
+[Гитхаб репозиторий Stylo](https://github.com/computationalstylistics/stylo)
+
+# Попрактикуемся!
 
 ## 0. Лукьяненко versus Донцова (тестируем Stylo)
 
@@ -217,9 +223,9 @@
 
 Умеют делать стилометрию в динамике. Хорошо для исследования соавторства над текстом. Разделение фрагментов, написанных разными авторами (либо более тонких влияний одного автора на другого).
 
-[Данные](stylometry_texts/rollingclassify.zip) 
+[Данные для эксперимента с rolling.classify](stylometry_texts/rollingclassify.zip) 
 
-Как видите, тут тоже 2 папки. Их надо поло
+Как видите, тут тоже 2 папки. Их надо положить в папки с названием reference set и test set.
 
 ## Сложность: отстутствие графич.интерфейса
 
@@ -251,8 +257,8 @@ oppose(corpus.lang=“Other”)
 
 # Функция Oppose ()
 
-Делает контрастивный анализ текстов. Тоже не имеет . Тоже надо прописывать
+Делает контрастивный анализ текстов. 
 
-[Данные](stylometry_texts/oppose.zip)
+[Данные для эксперимента с Oppose](stylometry_texts/oppose.zip)
 
 ## [Все тексты для практики, использованные выше (ссылка на папку)](stylometry_texts)
