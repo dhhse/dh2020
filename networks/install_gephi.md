@@ -2,31 +2,31 @@
 
 1. Скачайте Gephi с [официального сайта](https://gephi.org/) 
 
-[!download_gephi_screenshot](download_gephi.png)
+![download_gephi_screenshot](download_gephi.png)
 
 2. Запустите скачанный установщик и установите Gephi (все галки можно оставить по умолчанию)
 
-[!installing_gephi](installing_gephi.jpg)
+![installing_gephi](installing_gephi.jpg)
 
 3. Теперь у вас установлена Gephi и есть ее иконка. Попробуйте запустить:
 
-[!gephi_icon](gephi_icon.png)
+![gephi_icon](gephi_icon.png)
 
 4. Вероятно, он вместо запуска пожаловался, что нужна Java 1.8. or higher (если не пожаловался, а запустился — все хорошо, успех, больше ничего не надо)
 
-[!java_fail](java_fail.png)
+![java_fail](java_fail.png)
 
 5. Поэтому установите Java с [сайта Java](https://www.java.com/ru/download/)
 
-[!install_java](install_java.png)
+![install_java](install_java.png)
 
 6. Попробуйте запустить Gephi еще раз. Должно произойти такое:
 
-[!gephi_launching](gephi_launching.png)
+![gephi_launching](gephi_launching.png)
 
-[!gephi_greeting](gephi_greeting.png)
+![gephi_greeting](gephi_greeting.png)
 
-[!gephi_running](gephi_running.png)
+![gephi_running](gephi_running.png)
 
 7. Если не получилось — перезагрузитесь и попробуйте запустить еще раз. 
 
