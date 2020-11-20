@@ -39,5 +39,6 @@
 	1. [quickstart в Gephi](https://gephi.org/users/quick-start/)
 	2. [визуализация сети](https://gephi.org/users/tutorial-visualization/)
 	3. [укладка сети на плоскости](https://gephi.org/users/tutorial-layouts/)
+3. [Тьюториал](https://github.com/ancatmara/DL-SFL-2019/blob/master/seminar-13.md) Оксаны Дерезы (хороший)
 
 Т.к. в России блочится слайдшер (победа роскомнадзора над здравым смыслом), лучше сразу там качайте PDF-ы туториалов 
