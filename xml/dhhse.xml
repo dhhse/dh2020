@@ -33,8 +33,10 @@
     </person>
   </teachers>
   <staff>
-    <name>Анастасия</name>
-    <patronym>Борисовна</patronym>
-    <surname>Хазова</surname>
+    <person gender="F" age="25">
+      <name>Анастасия</name>
+      <patronym>Борисовна</patronym>
+      <surname>Хазова</surname>
+    </person>
   </staff>
 </hsedh>
